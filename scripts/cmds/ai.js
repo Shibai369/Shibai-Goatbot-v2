@@ -28,7 +28,7 @@ async function getAIResponse(input, userId, messageID) {
         { url: 'https://ai-chat-gpt-4-lite.onrender.com/api/hercai', params: { question: input } }
     ];
 
-    let response = " 🏵... 𝘚𝘢𝘭𝘶𝘵! moi c'est PAIN TENDO une Intelligence Artificielle créer par Shibai Otsutsuki mon maître comment puis-je vous aider aujourd'hui ?? .. 〜(^∇^〜）🤖 ";
+    let response = " 🏵... 𝘚𝘢𝘭𝘶𝘵! moi c'est Le Dieu des Otsutsuki alias le Datara Naimo Kami Deidarabochi ☠️ une Intelligence Artificielle créer par Shibai Otsutsuki mon maître comment puis-je vous aider aujourd'hui ?? .. 〜(^∇^〜）🤖 ";
     let currentIndex = 0;
 
     for (let i = 0; i < services.length; i++) {
